@@ -3,7 +3,7 @@
 services:
   galeria:
     container_name: galeria
-    image: drui24/devops:latest
+    image: drui24/devops02:latest
     ports:
       - 80:5000
     restart: always
